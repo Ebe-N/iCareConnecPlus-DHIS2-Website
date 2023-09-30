@@ -1,0 +1,68 @@
+#headP{
+    width: 50%;
+    margin:0 auto;
+    font-size:large;
+}
+
+p{
+    width: 70%;
+    margin: 0 auto
+}
+
+.container-fluid{
+    font-family: 'Ubuntu';
+  background-color: #fff;
+}
+                                /* card images */
+img{
+    width:30%;
+    height:30%;
+    margin: 0 auto;
+}
+                                /* exclusive size for smaller card images*/
+#smallImg2{
+    width: 50%;
+    height: 50%;
+}
+
+#smallImg3{
+    width: 45%;
+    height: 45%;
+}
+                                /* exclusive size for smaller card images*/
+                                /* card images */
+
+#cardsContainer{
+    background-image: linear-gradient(to bottom,#46B3E6, #46B3E6, #fff, #fff, #fff, #fff, #46B3E6);
+}
+
+#lastRow{
+    width: 80%;
+    margin: 0 auto;
+}
+
+
+#lastCol{
+    background-color: #3282B8;
+}
+
+#input1{
+    margin: 0 auto;
+}
+
+#testimonialBoxes{
+    height: 90px;
+}
+
+#testimonialsContainer{
+    margin-left: 0!important;
+    margin-right: 0!important;
+    /* padding: 0!important; */
+background-color: #E4EFF5;
+}
+
+#testimonialPersons{
+  height: 40%;
+  width: 40%;  
+  border-radius: 50%;
+}
