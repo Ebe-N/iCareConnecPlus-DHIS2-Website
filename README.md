@@ -6,7 +6,7 @@ It also contains the pricing description for different packages with different s
 How run to the files:
 <br>
 <ol>
-  <li>To run the files/ the source code involves downloading the source code into an IDE like that have already have an empty angular Project</li>
+  <li>To run the files/ the source code involves downloading the source code into an IDE that have already have an empty angular Project</li>
  <li>After downloading the source code paste replace the src file of the previous angular project with the downloaded source codes. This may be done by copying and pasting the "downloaded src" to the "empty project src"</li>
  <li>Run the project as usual using the 'ng serve' command from the terminal and the website will be visible in chrome</li> 
 </ol>
