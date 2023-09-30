@@ -6,8 +6,8 @@ It also contains the pricing description for different packages with different s
 How to the files:
 <br>
 <li>
-  <ol>
-    To run the files/ the source code involves downloading the
-  </ol>
+  <ol>To run the files/ the source code involves downloading the source code into an IDE like that have already have an empty angular Project</ol>
+  <ol>After downloading the source code paste replace the src file of the previous angular project with the downloaded source codes. This may be done by copying and pasting the "downloaded src" to the "empty project src"</ol>
+  <ol>Run the project as usual using the 'ng serve' command from the terminal</ol>
 </li>
  
