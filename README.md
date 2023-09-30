@@ -5,4 +5,9 @@ It also contains the pricing description for different packages with different s
 <br>
 How to the files:
 <br>
-To run the files/ the source code involves downloading the 
+<li>
+  <ol>
+    To run the files/ the source code involves downloading the
+  </ol>
+</li>
+ 
