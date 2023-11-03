@@ -1,9 +1,0 @@
-.container-fluid{
-    /*background-color: #B1BED5;*/
-    background-image:linear-gradient(to left, #3282B8,#46B3E6, #fff) ;
-    font-family: 'Ubuntu';
-}
-
-#navbarNav{
-    margin-left: 500px;
-}
