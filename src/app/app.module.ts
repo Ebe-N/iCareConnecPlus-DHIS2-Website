@@ -9,7 +9,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { FooterComponent } from './footer/footer.component';
 import { AccountComponent } from './home/account/account.component';
 import { HomeStartComponent } from './home/home-start/home-start.component';
-import { DrowpdownDirective } from './shared/dropdown.directives';
+import { DropdownDirective } from './shared/dropdown.directives';
 import { FormsModule } from '@angular/forms';
 import { HomeDetailsComponent } from './home/home-details/home-details.component';
 import { HomeTestimonialsComponent } from './home/home-testimonials/home-testimonials.component';
@@ -25,7 +25,7 @@ import { HomeTestimonialsComponent } from './home/home-testimonials/home-testimo
     FooterComponent,
     AccountComponent,
     HomeStartComponent,
-    DrowpdownDirective,
+    DropdownDirective,
     HomeDetailsComponent,
     HomeTestimonialsComponent
   ],
