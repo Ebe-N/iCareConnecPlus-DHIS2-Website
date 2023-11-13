@@ -1,9 +1,18 @@
-.container-fluid{
-    /*background-color: #B1BED5;*/
-    background-image:linear-gradient(to left, #3282B8,#46B3E6, #fff) ;
-    font-family: 'Ubuntu';
+.container-fluid {
+  /*background-color: #B1BED5;*/
+  background-image: linear-gradient(to left, #3282b8, #46b3e6, #fff);
+  font-family: "Ubuntu";
 }
 
-#navbarNav{
-    margin-left: 500px;
+#navbarNav {
+  margin-left: 500px;
+}
+
+.img-responsive {
+  height: 2.5rem;
+  width: 50%;
+}
+
+.col-sm-3 {
+  margin: 0 auto;
 }
